@@ -15,6 +15,9 @@ function Header(props) {
 					<li>
 						<Link to='/projects'>Projects</Link>
 					</li>
+					<li>
+						<Link to='./resume'>Resume</Link>
+					</li>
 				</ul>
 			</nav>
 		</div>
