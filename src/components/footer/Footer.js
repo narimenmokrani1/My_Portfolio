@@ -1,6 +1,6 @@
 import React from 'react';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
-
+import style from './footer.css'
 function Footer(props) {
 	return (
 		<div>

@@ -1,12 +1,20 @@
 import logo from './logo.svg';
 import './App.css';
+import { Routes, Route, Link } from 'react-router-dom';
 import Footer from './components/footer/Footer';
 import AboutMe from './components/aboutMe/AboutMe';
+import Header from './components/header/Header';
 
 function App() {
   return (
+
     <div className="App">
-      <AboutMe/>
+      <header>
+        <Header/>
+      </header>
+      <Routes>
+        <Route path='/about' element={<AboutMe/>}/>
+      </Routes>
       <Footer/>
     </div>
   );
