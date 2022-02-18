@@ -1,19 +1,18 @@
 .about-div {
-    margin: 4em;
-    border: 2px solid beige;
-    background-color: rgb(255, 212, 219);
-    font-size: x-large;
-
+	margin: 4em;
+	border: 2px solid beige;
+	background-color: rgb(255, 212, 219);
+	font-size: x-large;
+	align-items: center;
 }
 
 .skills {
-    display: flex;
-    justify-content: space-around;
+	display: flex;
+	justify-content: space-around;
 }
 
-
 .mimi-image {
-max-width: 400px;
+	max-width: 400px;
 }
 
 .mimi {

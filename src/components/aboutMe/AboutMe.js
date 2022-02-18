@@ -4,9 +4,9 @@ function AboutMe(props) {
 	return (
 		<div className='about-div'>
 			<h2>About Me</h2>
-			<div className='mimi-image'>
+			{/* <div className='mimi-image'>
 				<img src={require('../images/narimenpic.png')} alt='' className='mimi'/>
-			</div>
+			</div> */}
 			<p>
 				Software engineer with a background in architecture and design. 4 years
 				of experience in effective time management, attention to details, and
