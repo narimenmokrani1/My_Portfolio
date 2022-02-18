@@ -1,6 +1,7 @@
 .sizing-class {
 	max-width: 600px;
     border-radius: 40px;
+    
 }
 
 .img1,
@@ -23,6 +24,7 @@
 
 .pro1, .pro2, .pro3, .pro4 {
     margin: 2em;
-    border: 1px solid rebeccapurple;
-     border-radius: 40px;
+    border: 1px solid rgb(196, 188, 176);
+    border-radius: 40px;
+     background-color: rgb(196, 188, 176);
 }

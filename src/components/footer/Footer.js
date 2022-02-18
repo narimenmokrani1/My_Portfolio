@@ -8,8 +8,8 @@ function Footer(props) {
 				<ul className='footer-list'>
 					<a href='https://www.linkedin.com/in/narimen-mokrani-bb5a7a13b/'>
 						<LinkedInIcon className='icon' />
-						<li className='icon-text'>Narimen Mokrani</li>
 					</a>
+						<button>Contact Me</button>
 				</ul>
 			</footer>
 		</div>
