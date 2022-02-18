@@ -1,0 +1,21 @@
+.narimen-pic {
+	max-width: 400px;
+    margin-top: 3em;
+    
+	
+}
+
+.rimi {
+	max-width: 100%;
+	max-height: 100%;
+    border: 1em solid rgb(196, 188, 176);
+    border-radius: 400px;
+}
+
+.home-div {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: auto;
+    align-items: center;
+}
